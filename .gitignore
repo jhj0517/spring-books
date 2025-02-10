@@ -82,17 +82,14 @@ ehthumbs_vista.db
 *.stackdump
 [Dd]esktop.ini
 
-### Application Specific ###
-# H2 Database files
 *.db
+*.ini
 
 # Application properties with sensitive information
 src/main/resources/application-local.properties
 src/main/resources/application-prod.properties
 
-# Test coverage reports
 /coverage/
 
-# Gradle (if you ever switch to Gradle)
 .gradle
 **/build/ 

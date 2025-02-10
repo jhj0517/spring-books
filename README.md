@@ -32,7 +32,6 @@ GitHub Actions workflows:
 
 1. CI (ci.yml):
    - Builds project and runs tests
-   - Runs SonarCloud analysis
 
 2. Security Check (dependency-check.yml):
    - Runs weekly (Sunday at 00:00)

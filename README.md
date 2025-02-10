@@ -30,7 +30,7 @@ Access API documentation at:
 
 GitHub Actions workflows:
 
-1. CI ([ci.yml](https://github.com/jhj0517/spring-books/blob/main/.github/workflows/ci.yml):
+1. CI ([ci.yml](https://github.com/jhj0517/spring-books/blob/main/.github/workflows/ci.yml)):
    - Builds project and runs tests
 
 2. Security Check ([dependency-check.yml](https://github.com/jhj0517/spring-books/blob/main/.github/workflows/dependency-check.yml)):
